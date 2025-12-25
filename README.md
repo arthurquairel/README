@@ -23,13 +23,9 @@ At ESPCI, we are trained at the crossroads of **fundamental science and innovati
   > Helping organize student parties and events at the heart of the school’s community life.  
 
 - **Head of Project Management Department** – PCA, ESPCI’s Junior Entreprise (Paris, France)  
-  > Lead the Project Management department, managing a team of **10 members**. In charge of defining
-     and monitoring the strategy and kpi. Manage a client portfolio of 10 R&D projects valued at **45 K €
-for major clients**. 
-  > Manage client-student relations to facilitate **R&D projects in Physics, Chemistry, and Biology** for companies like **Bouygues, Chanel and Syensqo**
-  > Oversee the full lifecycle of projects, including drafting commercial proposals, **negotiating study
-agreements**, and ensuring smooth execution and closure of research studies as well as services such
-as the **carbon footprint assessment of ESPCI Paris-PSL** and **physics characterisation for Rubel Menasche**.
+  > Lead the Project Management department, managing a team of **10 members**. In charge of defining and monitoring the strategy and kpi. Manage a client portfolio of 10 R&D projects valued at **45 K for major clients**. 
+  > Manage client-student relations to facilitate **R&D projects in Physics, Chemistry, and Biology** for companies like **Bouygues, Chanel and Syensqo**. 
+  > Oversee the full lifecycle of projects, including drafting commercial proposals, **negotiating study agreements**, and ensuring smooth execution and closure of research studies as well as services such as the **carbon footprint assessment of ESPCI Paris-PSL** and **physics characterisation for Rubel Menasche**.
 
 
 ---
